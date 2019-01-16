@@ -18,6 +18,5 @@
         </dependency>
 
     </dependencies>
-    # we need to do something so the jar becomes executable
-    
+### I have fixed the pom.xml    
 </project>
