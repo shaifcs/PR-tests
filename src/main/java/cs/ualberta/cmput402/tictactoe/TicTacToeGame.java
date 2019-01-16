@@ -29,6 +29,8 @@ public class TicTacToeGame {
         }
     }
 
+// i have added  the tie enhancement
+
     public void playGame(){
         Scanner keyboardScanner = new Scanner(System.in);
 
